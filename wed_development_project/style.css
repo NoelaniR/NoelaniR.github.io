@@ -1,0 +1,28 @@
+#firstpage {
+    background-color: rgb(255, 255, 255);
+}
+#secondpage {
+    background-color: rgb(79, 78, 78);
+}
+#thirdpage {
+    background-color: aliceblue;
+}
+.flex-container {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0);
+    justify-content: center;
+}    
+.flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
